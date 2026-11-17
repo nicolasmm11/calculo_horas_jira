@@ -1,0 +1,10 @@
+# CREDENCIALES Y CONFIGURACIÓN PERSONAL
+.env
+.env.*
+!.env.example
+
+# DEPENDENCIAS
+node_modules/
+
+# ARCHIVOS DE REGISTRO
+*.log
